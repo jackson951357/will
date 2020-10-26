@@ -1,5 +1,5 @@
-  
-<表單操作=“ https://www.uni-lions.com.tw/news.aspx”方法=“獲取”>
+ 
+<表單操作=“ https://www.uni-lions.com.tw/news.aspx”方法=“獲取”
 <輸入類型=“文本”名稱=“類型”>
 <輸入類型=“提交”值=“確定”>
 </表單>
