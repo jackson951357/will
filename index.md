@@ -1,37 +1,31 @@
-## Welcome to GitHub Pages
+  
+<表單操作=“ https://www.uni-lions.com.tw/news.aspx”方法=“獲取”>
+<輸入類型=“文本”名稱=“類型”>
+<輸入類型=“提交”值=“確定”>
+</表單>
 
-You can use the [editor on GitHub](https://github.com/jackson951357/will/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<BR>
+<表單操作=“ https://www.uni-lions.com.tw/news.aspx”方法=“獲取”>
+<選擇名稱=“類型”>
+<option value =“ 1”>球隊報導</ option>
+<option value =“ 2”>票務資訊</ option>
+<option value =“ 3”>活動</ option>
+<option value =“ 4”>商品</ option>
+<option value =“ 5”>其他</ option>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+</選擇>
+<輸入類型=“提交”值=“確定”>
+</表單>
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jackson951357/will/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<表單操作=“ https://www.uni-lions.com.tw/news.aspx”方法=“獲取”>
+<輸入類型=“文本”名稱=“鍵”>
+<輸入類型=“隱藏”名稱=“貓”值=“ DPA”>
+<輸入類型=“提交”值=“搜尋統一獅”>
+</表單>
+<分段集>
+<輸入類型=“日期”名稱=“日期”>
+<輸入類型=“時間”名稱=“時間”>
+<輸入類型=“ dtel”名稱=“ tel”值=“電話”>
+<輸入類型=“電子郵件”名稱=“電子郵件”值=“信箱”>
+<輸入類型=“ url”名稱=“ url”值=“網址”>
+</ fieldset>
